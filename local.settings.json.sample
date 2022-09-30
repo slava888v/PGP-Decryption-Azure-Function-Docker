@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "same value as 'pgpDecodeSourceStorage'",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "pgpdecodesourcecontainername": "name of the source container. for example 'pgp'",
+        "pgpDecodeSourceStorage": "source storace connection string",
+        "pgpdecodetargetcontainername": "name of the target container. for example 'unpgp'",
+        "pgpDecodeTargetStorage": "target storage connection string",
+        "pgpPhraseSign": "",
+        "pgpPrivateKey": ""
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "PGP_Decryption_Azure_Function_Docker": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7037",
+      "launchBrowser": false
+    }
+  }
+}
